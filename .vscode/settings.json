@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MicroFPS.sln",
+    "dotnet.defaultSolution": "MicroFPS.slnx",
     "workbench.colorCustomizations": {
         "activityBar.background": "#142C5C",
         "titleBar.activeBackground": "#1C3D81",
